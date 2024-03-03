@@ -1,0 +1,15 @@
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\bin\Debug\net6.0\practice.exe
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\bin\Debug\net6.0\practice.deps.json
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\bin\Debug\net6.0\practice.runtimeconfig.json
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\bin\Debug\net6.0\practice.dll
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\bin\Debug\net6.0\practice.pdb
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.csproj.AssemblyReference.cache
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.AssemblyInfoInputs.cache
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.AssemblyInfo.cs
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.dll
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\refint\practice.dll
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.pdb
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\practice.genruntimeconfig.cache
+C:\Users\Abimbola.Balogun\Documents\C# Projects\firstMethod\practice\obj\Debug\net6.0\ref\practice.dll
